@@ -1,8 +1,5 @@
 # 🌦️ Weather Website
 
-## 🚀 Live Demo  
-🔗 **[Check Live Website](https://Aryaagupta.github.io/weather-website/)**  
-
 ## 📖 About the Project  
 This is a simple **weather website** that allows users to check real-time weather conditions for any location. It fetches data using an API and displays information such as temperature, humidity, and weather conditions.
 
